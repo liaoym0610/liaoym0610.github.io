@@ -1,8 +1,6 @@
 ## Homepage of Yumeng Liao
 
-You can use the [editor on GitHub](https://github.com/liaoym0610/liaoym0610.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### A test version. See https://kxn2ytsatn.wixsite.com/liaoym for more.
 
 ### About
 
@@ -20,6 +18,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       https://orcid.org/0000-0001-6221-2226
     </a>
 
-### Twitterw
+<span id="badgeCont613"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont613&rid=ABB-1572-2021"></script></span>
+
+
+
+### Twitter
 
 <a class="twitter-timeline" href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw">Tweets by yum6ng</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
