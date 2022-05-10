@@ -83,7 +83,7 @@
 
 <div align=center><img src="https://media-exp1.licdn.com/dms/image/C5103AQFINYqcxCmGDg/profile-displayphoto-shrink_800_800/0/1529855295412?e=1657756800&v=beta&t=V32HRSi4goq_TIPZxq2x_DJtiFpDDtd7Jvs_PBUUpQs" width="250" height="250"></div>
 <p style="text-align: center;background-color: #ffb6d2;">Yumeng Liao (廖 宇萌)</p>
- <br>
+
 **Birth**: June 10th, 1997 <br>
 **Born**: Leshan, Sichuan, P.R.China <br>
 **Email**: yliao@g.ecc.u-tokyo.ac.jp <br>
