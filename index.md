@@ -1,9 +1,9 @@
 ## Homepage of Yumeng Liao
 
-### This homepage is under testing.
->#### See <a href="https://kxn2ytsatn.wixsite.com/liaoym" target="_blank">https://kxn2ytsatn.wixsite.com/liaoym</a> for more
+**This homepage is under testing.** <br>
+&emsp; &emsp; &emsp; **See <a href="https://kxn2ytsatn.wixsite.com/liaoym" target="_blank">https://kxn2ytsatn.wixsite.com/liaoym</a> for more**
 
-## Links
+### Links
 
 <a
     id="cy-effective-orcid-url"
@@ -77,20 +77,19 @@
 
 <span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span>
 
-## About
+### About
 >**Name**: Yumeng Liao (廖宇萌) <br>
 >**Birth**: June 10th, 1997 <br>
 >**Born**: Leshan, Sichuan, P.R.China <br>
 >**Email**: <yliao@g.ecc.u-tokyo.ac.jp>  <br>
 
-## Education
+### Education
 >**2016-2020**: Tokyo University of Science <br>
 &ensp; B.Sc. of Science (Chemistry), Superviror: Prof. Takanori Matsuda, <a href="https://www.rs.tus.ac.jp/mtd/" target="_blank">**THE MATSUDA GROUP**</a> <br>
 >**2020-2022**: Tokyo Institute of Technology <br>
-&ensp; M.Sc. of Science (Chemistry), Superviror: Prof. Nobuharu Iwasawa, <a href="http://www.chemistry.titech.ac.jp/~iwasawa/index.html" target="_blank">**THE IWASAWA GROUP**</a> <br>
+&ensp; M.Sc. of Science (Chemistry), Superviror: Prof. Nobuharu Iwasawa (<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201006869" target="_blank">***author profile, Angew. Chem.***</a>), <a href="http://www.chemistry.titech.ac.jp/~iwasawa/index.html" target="_blank">**THE IWASAWA GROUP**</a> <br>
 >**2022-present**: The University of Tokyo <br>
-&ensp; Ph.D. of Engineering (Chemistry), Superviror: Prof. Kyoko Nozaki, <a href="http://park.itc.u-tokyo.ac.jp/nozakilab/indexE.html" target="_blank">**THE NOZAKI GROUP**</a> <br>
+&ensp; Ph.D. of Engineering (Chemistry), Superviror: Prof. Kyoko Nozaki (<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201204966" target="_blank">***author profile, Angew. Chem.***</a>), <a href="http://park.itc.u-tokyo.ac.jp/nozakilab/indexE.html" target="_blank">**THE NOZAKI GROUP**</a> <br>
 
-## Twitter
-
-<a class="twitter-timeline" href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw">Tweets by yum6ng</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### Twitter
+<a href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yum6ng</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
