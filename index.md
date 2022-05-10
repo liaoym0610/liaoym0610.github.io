@@ -1,7 +1,7 @@
 ## Homepage of Yumeng Liao
 
-<span style="font-family:arial; font-size:4em;"> **This homepage is under testing.** <br>
-&emsp; &emsp; &emsp; **See <a href="https://kxn2ytsatn.wixsite.com/liaoym" target="_blank">https://kxn2ytsatn.wixsite.com/liaoym</a> for more** </span>
+**This homepage is under testing.** <br>
+&emsp; &emsp; &emsp; **See <a href="https://kxn2ytsatn.wixsite.com/liaoym" target="_blank">https://kxn2ytsatn.wixsite.com/liaoym</a> for more**
 
 ### Links
 
@@ -83,19 +83,19 @@
 
 <div align=center><img src="https://media-exp1.licdn.com/dms/image/C5103AQFINYqcxCmGDg/profile-displayphoto-shrink_800_800/0/1529855295412?e=1657756800&v=beta&t=V32HRSi4goq_TIPZxq2x_DJtiFpDDtd7Jvs_PBUUpQs" width="250" height="250"></div> <br>
 
-></span>**Name**: Yumeng Liao (廖 宇萌) </span><br>
->**Birth**: June 10th, 1997 <br>
->**Born**: Leshan, Sichuan, P.R.China <br>
->**Email**: yliao@g.ecc.u-tokyo.ac.jp <br>
+<font face="arial" > **Name**: Yumeng Liao (廖 宇萌)</font> <br>
+**Birth**: June 10th, 1997 <br>
+**Born**: Leshan, Sichuan, P.R.China <br>
+**Email**: yliao@g.ecc.u-tokyo.ac.jp <br>
 
 ### Education
->**2016-2020**: Tokyo University of Science <br>
+**2016-2020**: Tokyo University of Science <br>
 &ensp; B.Sc. of Science (Chemistry) <br>
 &ensp; with Prof. Takanori Matsuda
 <a href="https://www.rs.tus.ac.jp/mtd/" target="_blank">**THE MATSUDA GROUP**</a> <br>
->**2020-2022**: Tokyo Institute of Technology <br>
+**2020-2022**: Tokyo Institute of Technology <br>
 &ensp; M.Sc. of Science (Chemistry) <br>
 &ensp; with Prof. Nobuharu Iwasawa (<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201006869" target="_blank">***author profile, Angew. Chem.***</a>) <a href="http://www.chemistry.titech.ac.jp/~iwasawa/index.html" target="_blank">**THE IWASAWA GROUP**</a> <br>
->**2022-present**: The University of Tokyo <br>
+**2022-present**: The University of Tokyo <br>
 &ensp; Ph.D. of Engineering (Chemistry) <br>
 &ensp; with Prof. Kyoko Nozaki (<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201204966" target="_blank">***author profile, Angew. Chem.***</a>), <a href="http://park.itc.u-tokyo.ac.jp/nozakilab/indexE.html" target="_blank">**THE NOZAKI GROUP**</a> <br>
