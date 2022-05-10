@@ -1,7 +1,7 @@
 ## Homepage of Yumeng Liao
 
 #### A test version.
->##### See [https://kxn2ytsatn.wixsite.com/liaoym](https://kxn2ytsatn.wixsite.com/liaoym) for more.
+>##### See <a href="https://kxn2ytsatn.wixsite.com/liaoym" target="_blank">https://kxn2ytsatn.wixsite.com/liaoym</a>
 
 ### About
 
