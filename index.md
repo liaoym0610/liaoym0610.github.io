@@ -81,12 +81,15 @@
 >**Name**: Yumeng Liao (廖宇萌) <br>
 >**Birth**: June 10th, 1997 <br>
 >**Born**: Leshan, Sichuan, P.R.China <br>
->**Email**: yliao@g.ecc.u-tokyo.ac.jp  <br>
+>**Email**: <yliao@g.ecc.u-tokyo.ac.jp>  <br>
 
 ### Education
 >**2016-2020**: Tokyo University of Science <br>
+&ensp; B.Sc. of Science (Chemistry), Superviror: Prof. Takanori Matsuda, <a href="https://www.rs.tus.ac.jp/mtd/" target="_blank">**THE MATSUDA GROUP**</a> <br>
 >**2020-2022**: Tokyo Institute of Technology <br>
+&ensp; M.Sc. of Science (Chemistry), Superviror: Prof. Nobuharu Iwasawa, <a href="http://www.chemistry.titech.ac.jp/~iwasawa/index.html" target="_blank">**THE IWASAWA GROUP**</a> <br>
 >**2022-present**: The University of Tokyo <br>
+&ensp; Ph.D. of Engineering (Chemistry), Superviror: Prof. Kyoko Nozaki, <a href="http://park.itc.u-tokyo.ac.jp/nozakilab/indexE.html" target="_blank">**THE NOZAKI GROUP**</a> <br>
 
 ### Twitter
 
