@@ -75,6 +75,8 @@
       Linkedin
     </a>
 
+<a href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yum6ng</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span>
 
 ### About
@@ -90,8 +92,3 @@
 &ensp; M.Sc. of Science (Chemistry), Superviror: Prof. Nobuharu Iwasawa (<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201006869" target="_blank">***author profile, Angew. Chem.***</a>), <a href="http://www.chemistry.titech.ac.jp/~iwasawa/index.html" target="_blank">**THE IWASAWA GROUP**</a> <br>
 >**2022-present**: The University of Tokyo <br>
 &ensp; Ph.D. of Engineering (Chemistry), Superviror: Prof. Kyoko Nozaki (<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201204966" target="_blank">***author profile, Angew. Chem.***</a>), <a href="http://park.itc.u-tokyo.ac.jp/nozakilab/indexE.html" target="_blank">**THE NOZAKI GROUP**</a> <br>
-
-### Social Media
-<a href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yum6ng</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fyumeng.liao.31%2F&tabs=timeline&width=0&height=0&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="0" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
