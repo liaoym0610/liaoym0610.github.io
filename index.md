@@ -145,7 +145,7 @@ check out [literature](https://liaoym0610.github.io/literature)
 &ensp; see also <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201006869" target="_blank">***author profile, Angew. Chem.***</a> <br>
 &ensp; <a href="http://www.chemistry.titech.ac.jp/~iwasawa/index.html" target="_blank">**THE IWASAWA RESEARCH GROUP**</a> <br><br>
 **2022-present**: The University of Tokyo <br>
-&ensp; Ph.D. of Engineering (Chemistry) <br>
+&ensp; Ph.D. in Engineering (Chemistry) <br>
 &ensp; with Prof. Kyoko Nozaki <br>
 &ensp; see also <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201204966" target="_blank">***author profile, Angew. Chem.***</a> <br>
 &ensp; <a href="http://park.itc.u-tokyo.ac.jp/nozakilab/indexE.html" target="_blank">**THE NOZAKI RESEARCH GROUP**</a> <br>
@@ -155,4 +155,4 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 
 ### Others
 The Chemical Society of Japan (membership since 2019) <br>
-SPRING GX project, UTokyo (membership since 2022)
+SPRING GX project, UTokyo (fellewship since 2022)
