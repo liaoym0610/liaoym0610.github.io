@@ -102,6 +102,20 @@
       Instagram
     </a>
 
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://weibo.com/u/1957684331"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sina_Weibo.svg/1200px-Sina_Weibo.svg.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="weibo iD icon"/>
+      Weibo
+    </a>
+
 <a href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yum6ng</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span>
