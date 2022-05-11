@@ -19,7 +19,7 @@ Takahashi K.; <u>Liao Y.</u>; Iwasawa N.\* <br>
 Suzuki H.; <u>Liao Y.</u>; Kawai Y.; Matsuda T.<br>
 **(Communication)**, *Eur. J. Org. Chem*, **2021**, 4938–4942. [10.1002/ejoc.202100956](https://doi.org/10.1002/ejoc.202100956)
 <div align=center><img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/15adfe87-228b-4fc1-8b23-e47ae8fdc4a6/ejoc202100956-toc-0001-m.jpg" width="350px"></div><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-type="1" data-doi="10.1002/ejoc.202100956" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="1" data-doi="10.1002/ejoc.202100956" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ### 2020
 **Rhodium-Catalyzed C(sp<sup>2</sup>)–H Alkoxycarbonylation of Indoles without External Additives** <br>
