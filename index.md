@@ -154,5 +154,5 @@ check out [literature](https://liaoym0610.github.io/literature)
 Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 
 ### Others
-The Chemical Society of Japan (membership since 2019) <br>
-SPRING GX project, UTokyo (fellewship since 2022)
+The Chemical Society of Japan (*membership* since 2019) <br>
+SPRING GX project, UTokyo (*fellowship* since 2022)
