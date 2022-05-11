@@ -1,8 +1,7 @@
 ## Homepage of Yumeng Liao
 
-**This homepage is under testing.** <br>
-&emsp; &emsp; &emsp; **See <a href="https://kxn2ytsatn.wixsite.com/liaoym" target="_blank">https://kxn2ytsatn.wixsite.com/liaoym</a> for more**
-
+#### **This homepage is under testing.** <br>
+---
 ### Links
 
 <a
@@ -75,6 +74,34 @@
       Linkedin
     </a>
 
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://www.facebook.com/yumeng.liao.31/"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="facebook icon"/>
+      Facebook
+    </a>
+    
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://www.instagram.com/_noreply/"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="instagram iD icon"/>
+      Instagram
+    </a>
+
 <a href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yum6ng</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span>
@@ -82,10 +109,12 @@
 ### Publication
 see [full Publication](https://liaoym0610.github.io/publication)
 
+### Literature
+check out [literature](https://liaoym0610.github.io/literature)
+
 ### About
 
-<div align=center><img src="https://media-exp1.licdn.com/dms/image/C5103AQFINYqcxCmGDg/profile-displayphoto-shrink_800_800/0/1529855295412?e=1657756800&v=beta&t=V32HRSi4goq_TIPZxq2x_DJtiFpDDtd7Jvs_PBUUpQs" width="250" height="250"></div>
-<p style="text-align: center">Yumeng Liao (廖 宇萌)</p>
+<div align=center><img src="https://media-exp1.licdn.com/dms/image/C5103AQFINYqcxCmGDg/profile-displayphoto-shrink_800_800/0/1529855295412?e=1657756800&v=beta&t=V32HRSi4goq_TIPZxq2x_DJtiFpDDtd7Jvs_PBUUpQs" width="250" height="250"><br><p style="text-align: center"><b>Yumeng Liao (廖 宇萌)</b></p></div>
 
 **Birth**: June 10th, 1997 <br>
 **Born**: Leshan, Sichuan, P.R.China <br>
@@ -110,5 +139,6 @@ see [full Publication](https://liaoym0610.github.io/publication)
 ### Research Interests
 Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 
-### Membership
-The Chemical Society of Japan (since 2019)
+### Others
+The Chemical Society of Japan (membership since 2019) <br>
+SPRING GX project, UTokyo (membership since 2022)
