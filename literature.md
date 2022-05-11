@@ -2,49 +2,49 @@
 #### Abstracts from literature seminars made by Yumeng
 Last updated  May 2nd, 2022
 
-7. **An Anionic Dinuclear Ruthenium Dihydrogen Complex of Relevance for Alkyne <i>gem-</i>Hydrogenation** <br>
+**7. An Anionic Dinuclear Ruthenium Dihydrogen Complex of Relevance for Alkyne <i>gem-</i>Hydrogenation** <br>
 Fürstner A. *et al. Angew. Chem. Int. Ed.* **2022**, e202201311 [10.1002/anie.202201311](https://doi.org/10.1002/anie.202201311)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_7.pdf)**
 <div align=center><img src="https://onlinelibrary.wiley.com/cms/asset/48a03292-085f-4481-9131-9624f6f8ddb6/anie202201311-toc-0001-m.jpg" width="500px"></div>
 
 <br>
 
-6. **Cobalt-Catalysed Enantioselective C(sp<sup>3</sup>)–C(sp<sup>3</sup>) Coupling** <br>
+**6. Cobalt-Catalysed Enantioselective C(sp<sup>3</sup>)–C(sp<sup>3</sup>) Coupling** <br>
 Fu Y. *et al. Nat. Catal.* **2022**, *4*, 901–911 [10.1038/s41929-021-00688-w](https://doi.org/10.1038/s41929-021-00688-w)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_6.pdf)**
 <div align=center><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41929-021-00688-w/MediaObjects/41929_2021_688_Figa_HTML.png?as=webp" width="500px"></div>
 
 <br>
 
-5. **Asymmetric Total Synthesis of the Stemona Alkaloid (−)-Steinine** <br>
+**5. Asymmetric Total Synthesis of the Stemona Alkaloid (−)-Steinine** <br>
 Wipf P. *et al. J. Am. Chem. Soc.* **1995**, *117*, 11106–11112 [10.1021/ja00150a010](https://doi.org/10.1021/ja00150a010)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_5.pdf)**
 <div align=center><img src="https://liaoym0610.github.io/literature/7C45BEF2-2462-4EFB-816D-EC07D898942B.png" width="500px"></div>
 
 <br>
 
-4. **Catalyst as colour indicator for endpoint detection to enable selective alkyne Trans-hydrogenation with Ethanol** <br>
+**4. Catalyst as colour indicator for endpoint detection to enable selective alkyne Trans-hydrogenation with Ethanol** <br>
 Huang Z. *et al. Nat. Catal.* **2019**, *2*, 529–536 [10.1038/s41929-019-0299-2](https://doi.org/10.1038/s41929-019-0299-2)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_4.pdf)**
 <div align=center><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41929-019-0299-2/MediaObjects/41929_2019_299_Fig1_HTML.png?as=webp" width="500px"></div>
 
 <br>
 
-3. **An Amine-Assisted Ionic Monohydride Mechanism Enables Selective Alkyne <i>cis-</i>Semihydrogenation with Ethanol: From Elementary Steps to Catalysis** <br>
+**3. An Amine-Assisted Ionic Monohydride Mechanism Enables Selective Alkyne <i>cis-</i>Semihydrogenation with Ethanol: From Elementary Steps to Catalysis** <br>
 Huang Z. *et al. J. Am. Chem. Soc.* **2021**, *117*, 11106–11112 [10.1021/jacs.1c01472](https://doi.org/10.1021/jacs.1c01472)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_3.pdf)**
 <div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.1c01472/asset/images/large/ja1c01472_0019.jpeg" width="500px"></div>
 
 <br>
 
-2. **Three-Component, Interrupted Radical Heck/Allylic Substitution Cascade Involving Unactivated Alkyl Bromides** <br>
+**2. Three-Component, Interrupted Radical Heck/Allylic Substitution Cascade Involving Unactivated Alkyl Bromides** <br>
 Glorius F. *et al. J. Am. Chem. Soc.* **2020**, *142*, 10173–10183 [10.1021/jacs.0c03239](https://doi.org/10.1021/jacs.0c03239)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_2.pdf)**
 <div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.0c03239/asset/images/large/ja0c03239_0009.jpeg" width="500px"></div>
 
 <br>
 
-1. **A Unified Strategy for the Enantiospecific Total Synthesis of Delavatine A and Formal Synthesis of Incarviatone A** <br>
+**1. A Unified Strategy for the Enantiospecific Total Synthesis of Delavatine A and Formal Synthesis of Incarviatone A** <br>
 Sarpong R. *et al. J. Am. Chem. Soc.* **2019**, *141*, 14421–14432 [10.1021/jacs.9b07693](https://doi.org/10.1021/jacs.9b07693)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_1.pdf)**
 <div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.9b07693/asset/images/large/ja9b07693_0015.jpeg" width="500px"></div>
