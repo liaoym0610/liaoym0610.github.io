@@ -136,23 +136,18 @@ check out [literature](https://liaoym0610.github.io/literature)
 
 ### Education
 **2016-2020**: Tokyo University of Science <br>
-&ensp; B.Sc. of Science (Chemistry) <br>
-&ensp; with Prof. Takanori Matsuda <br>
+&ensp; B.Sc. (Chemistry) with Prof. Takanori Matsuda <br>
 &ensp; <a href="https://www.rs.tus.ac.jp/mtd/" target="_blank">**THE MATSUDA RESEARCH GROUP**</a> <br><br>
 **2020-2022**: Tokyo Institute of Technology <br>
-&ensp; M.Sc. of Science (Chemistry) <br>
-&ensp; with Prof. Nobuharu Iwasawa <br>
-&ensp; see also <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201006869" target="_blank">***author profile, Angew. Chem.***</a> <br>
+&ensp; M.Sc. of Science (Chemistry) with Prof. Nobuharu Iwasawa, see also <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201006869" target="_blank">***author profile, Angew. Chem.***</a> <br>
 &ensp; <a href="http://www.chemistry.titech.ac.jp/~iwasawa/index.html" target="_blank">**THE IWASAWA RESEARCH GROUP**</a> <br><br>
 **2022-present**: The University of Tokyo <br>
-&ensp; Ph.D. in Engineering (Chemistry) <br>
-&ensp; with Prof. Kyoko Nozaki <br>
-&ensp; see also <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201204966" target="_blank">***author profile, Angew. Chem.***</a> <br>
+&ensp; Ph.D. in Engineering (Chemistry) with Prof. Kyoko Nozaki, see also <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201204966" target="_blank">***author profile, Angew. Chem.***</a> <br>
 &ensp; <a href="http://park.itc.u-tokyo.ac.jp/nozakilab/indexE.html" target="_blank">**THE NOZAKI RESEARCH GROUP**</a> <br>
 
 ### Research Interests
 Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 
 ### Others
-The Chemical Society of Japan (*membership* since 2019) <br>
-SPRING GX project, UTokyo (*fellowship* since 2022)
+The Chemical Society of Japan (***membership*** since 2019) <br>
+SPRING GX project, UTokyo (***fellowship*** since 2022)
