@@ -149,10 +149,10 @@ check out [literature](https://liaoym0610.github.io/literature)
 Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 
 ### Languages
-:cn: **Mandarin** Chinese (Native proficiency) <br>
-:uk::us: **English** (Full professional proficiency) <br>
-:jp: **Japanese** (Full professional proficiency) <br>
-:taiwan: **Taiwanese Hokkien** (limited working proficiency, *as interest*)
+🇨🇳 **Mandarin** Chinese (Native proficiency) <br>
+🇬🇧🇺🇸 **English** (Full professional proficiency) <br>
+🇯🇵 **Japanese** (Full professional proficiency) <br>
+🇹🇼 **Taiwanese Hokkien** (limited working proficiency, *as interest*)
 
 ### Others
 The Chemical Society of Japan (***membership*** since 2019) <br>
