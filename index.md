@@ -155,5 +155,6 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 🇹🇼 **Taiwanese Hokkien** (limited working proficiency, *as interest*)
 
 ### Others
+American Chemical Society (***membership*** since 2022) <br>
 The Chemical Society of Japan (***membership*** since 2019) <br>
 SPRING GX project, Univ. of Tokyo (***fellowship*** since 2022)
