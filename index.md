@@ -155,6 +155,44 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 🇹🇼 **Taiwanese Hokkien** (limited working proficiency, *as interest*)
 
 ### Others
-American Chemical Society (***membership*** since 2022) <br>
-The Chemical Society of Japan (***membership*** since 2019) <br>
-SPRING GX project, Univ. of Tokyo (***fellowship*** since 2022)
+<a
+    id="cy-effective-CSJ-url"
+    class="underline"
+     href="[https://NA](https://NA)"
+     target="csj.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://www.chemistry.or.jp/en/aboutus/assets_c/2014/09/nothumb-thumb-640xauto-2139.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="CSJ"/>
+      The Chemical Society of Japan
+    </a> (***membership*** since 2019) <br>
+    
+<a
+    id="cy-effective-ACS-url"
+    class="underline"
+     href="[https://NA](https://NA)"
+     target="acs.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/American_Chemical_Society_logo.svg/1200px-American_Chemical_Society_logo.svg.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="acs"/>
+      American Chemical Society
+    </a> (***membership*** since 2022) <br>
+    
+<a
+    id="cy-effective-UT-url"
+    class="underline"
+     href="[https://NA](https://NA)"
+     target="ut.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/UnivOfTokyo_mark.svg/200px-UnivOfTokyo_mark.svg.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ut"/>
+      SPRING GX Project, UTokyo
+    </a> (***fellowship*** since 2022)
