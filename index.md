@@ -158,7 +158,6 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 <a
     id="cy-effective-CSJ-url"
     class="underline"
-     href="[https://NA](https://NA)"
      target="csj.widget"
      rel="me noopener noreferrer"
      style="vertical-align: top">
@@ -172,7 +171,6 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 <a
     id="cy-effective-ACS-url"
     class="underline"
-     href="[https://NA](https://NA)"
      target="acs.widget"
      rel="me noopener noreferrer"
      style="vertical-align: top">
@@ -186,7 +184,6 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 <a
     id="cy-effective-UT-url"
     class="underline"
-     href="[https://NA](https://NA)"
      target="ut.widget"
      rel="me noopener noreferrer"
      style="vertical-align: top">
