@@ -1,6 +1,14 @@
 # Literature
 #### Abstracts from literature seminars made by Yumeng
-Last updated  May 2nd, 2022
+
+**8. Rhodium-Catalyzed Deuterated Tsuji–Wilkinson Decarbonylation of Aldehydes with Deuterium Oxide** <br>
+Chen A. *et al. J. Am. Chem. Soc.* **2022**, *144*, 11081–11087 [10.1021/jacs.2c04422](https://doi.org/10.1021/jacs.2c04422)<br>
+see **[seminar file](https://liaoym0610.github.io/literature/literature_8.pdf)**
+<div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.2c04422/asset/images/large/ja2c04422_0008.jpeg" width="350px"></div>
+
+<br>
+
+liaoym0610.github.io/literature/literature_8.pdf
 
 **7. An Anionic Dinuclear Ruthenium Dihydrogen Complex of Relevance for Alkyne <i>gem-</i>Hydrogenation** <br>
 Fürstner A. *et al. Angew. Chem. Int. Ed.* **2022**, e202201311 [10.1002/anie.202201311](https://doi.org/10.1002/anie.202201311)<br>
