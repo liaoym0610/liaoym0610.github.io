@@ -1,6 +1,6 @@
 ## Homepage of Yumeng Liao
 
-**This homepage is under testing.** <br>
+**Last updated July 2nd 2022** <br>
 
 ### Links
 
