@@ -8,8 +8,6 @@ see **[seminar file](https://liaoym0610.github.io/literature/literature_8.pdf)**
 
 <br>
 
-liaoym0610.github.io/literature/literature_8.pdf
-
 **7. An Anionic Dinuclear Ruthenium Dihydrogen Complex of Relevance for Alkyne <i>gem-</i>Hydrogenation** <br>
 Fürstner A. *et al. Angew. Chem. Int. Ed.* **2022**, e202201311 [10.1002/anie.202201311](https://doi.org/10.1002/anie.202201311)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_7.pdf)**
