@@ -2,6 +2,14 @@
 # PUBLICATION & CONFERENCE
 
 ### 2022
+
+**Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application into C−H Borylation of Unactivated Arenes** <br>
+<u>Liao Y.</u>; Hirataka Y.; Takahashi K.; Iwasawa N.\* <br>
+**(Domestic Conference)**, JSCC 72nd Annual Meeting, **2022**, September, Kyushu, (oral)
+<div align=center><img src="liaoym0610.github.io/publication/sakuto_2022.png" width="350px"></div>
+
+<br>
+
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application into C−H Borylation of Unactivated Arenes** <br>
 Takahashi K.; <u>Liao Y.</u>; Iwasawa N.\* <br>
 **(Research Article)**, *to be submitted*
