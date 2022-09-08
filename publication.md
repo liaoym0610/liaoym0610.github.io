@@ -3,14 +3,14 @@
 
 ### 2022
 
-**Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application into C−H Borylation of Unactivated Arenes** <br>
+**Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Hirataka Y.; Takahashi K.; Iwasawa N.\* <br>
-**(Domestic Conference)**, JSCC 72nd Annual Meeting, **2022**, September, Kyushu, (oral)
+**(Domestic Conference)**, JSCC 72nd Annual Meeting, **2022**, September, Kyushu, (oral), [[2D-03]](http://www.chem.okayama-u.ac.jp/~reg/jscc72/pdf/2D-03.pdf)
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC.png" width="350px"></div>
 
 <br>
 
-**Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application into C−H Borylation of Unactivated Arenes** <br>
+**Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 Takahashi K.; <u>Liao Y.</u>; Iwasawa N.\* <br>
 **(Research Article)**, *to be submitted*
 <div align=center><img src="https://raw.githubusercontent.com/liaoym0610/liaoym0610.github.io/main/2022_borylation.png" width="350px"></div>
@@ -19,7 +19,7 @@ Takahashi K.; <u>Liao Y.</u>; Iwasawa N.\* <br>
 
 **Development of Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand and Their Catalytic Reactivity** <br>
 <u>Liao Y.</u>; Hirataka Y.; Takahashi K.; Iwasawa N. <br>
-**(Domestic Conference)**, The CSJ 102nd Annual Meeting, **2022**, ONLINE, (oral), [[D202-4am-11]](https://confit.atlas.jp/guide/event/csj102nd/subject/D202-4am-11/tables?cryptoId=)
+**(Domestic Conference)**, The CSJ 102nd Annual Meeting, **2022**, March, ONLINE, (oral), [[D202-4am-11]](https://confit.atlas.jp/guide/event/csj102nd/subject/D202-4am-11/tables?cryptoId=)
 <div align=center><img src="https://liaoym0610.github.io/714B79B4-CA47-4A91-B24D-0B18D719DF67.png" width="350px"></div>
 
 ### 2021
