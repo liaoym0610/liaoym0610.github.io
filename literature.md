@@ -1,6 +1,13 @@
 # Literature
 #### Abstracts from literature seminars made by Yumeng
 
+**9. A Thioether-Catalyzed Cross-Coupling Reaction of Allyl Halides and Arylboronic Acids** <br>
+Huang Y. *et al. Angew. Chem. Int. Ed.* **2022**, Accepted Articles [10.1002/anie.202211408](https://doi.org/10.1002/anie.202211408)<br>
+see **[seminar file](https://liaoym0610.github.io/literature/literature_9.pdf)**
+<div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.2c04422/asset/images/large/ja2c04422_0008.jpeg" width="350px"></div>
+
+<br>
+
 **8. Rhodium-Catalyzed Deuterated Tsuji–Wilkinson Decarbonylation of Aldehydes with Deuterium Oxide** <br>
 Chen A. *et al. J. Am. Chem. Soc.* **2022**, *144*, 11081–11087 [10.1021/jacs.2c04422](https://doi.org/10.1021/jacs.2c04422)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_8.pdf)**
