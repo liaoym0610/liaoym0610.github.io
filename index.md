@@ -139,7 +139,7 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 🇨🇳 **Mandarin Chinese** (Native proficiency) <br>
 🇬🇧🇺🇸 **English** (Full professional proficiency) <br>
 🇯🇵 **Japanese** (Full professional proficiency) <br>
-🇹🇼 **Taiwanese Hokkien** (limited working proficiency, *as interest*)
+🇹🇼 **Taiwanese Hokkien** (Working proficiency)
 
 ### Others
 <a
