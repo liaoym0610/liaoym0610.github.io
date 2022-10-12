@@ -120,7 +120,7 @@ check out [literature](https://liaoym0610.github.io/literature)
 
 ### About
 
-<div align=center><img src="https://media-exp2.licdn.com/dms/image/C5103AQFINYqcxCmGDg/profile-displayphoto-shrink_800_800/0/1529855295412?e=1663200000&v=beta&t=cHjEn6ptAE_6oboGaVrPApqncP45UAOf_kO4fTuCYU8" width="250" height="250"><p style="text-align: center"><b>Yumeng Liao (廖 宇萌)</b></p></div>
+<div align=center><img src="https://media-exp1.licdn.com/dms/image/C5103AQFINYqcxCmGDg/profile-displayphoto-shrink_800_800/0/1529855295412?e=1671062400&v=beta&t=t5L5XZxzZV3llOd6U_Dss90bZ_m8F97BnFRLrddts-s" width="250" height="250"><p style="text-align: center"><b>Yumeng Liao (廖 宇萌)</b></p></div>
 
 **Birth**: June 10th, 1997 <br>
 **Born**: Leshan, Sichuan, P.R.China <br>
