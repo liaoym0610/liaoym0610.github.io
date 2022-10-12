@@ -1,6 +1,6 @@
 ## Homepage of Yumeng Liao
 
-**Last updated Sep. 9th 2022** <br>
+**Last updated Oct. 12th 2022** <br>
 
 ### Links
 
@@ -109,6 +109,11 @@
 
 ### Publication
 see [full Publication](https://liaoym0610.github.io/publication)
+
+### Awards
+1. <a href="http://www.sakutai.jp/cms/wp-content/uploads/2022/10/Student-Lecture-Awards.pdf" target="_blank">**The 72nd Conference of Japan Society of Coordination Chemistry**</a> <br>
+&ensp; **Student Lecture Award** <br>
+(Title: Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes)
 
 ### Literature
 check out [literature](https://liaoym0610.github.io/literature)
