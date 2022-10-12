@@ -169,6 +169,19 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
     </a> (***membership*** since 2022) <br>
     
 <a
+    id="cy-effective-ACS-url"
+    class="underline"
+     target="jscc.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="http://www.sakutai.jp/cms/wp-content/uploads/2016/12/logo-e1482214841506-300x271.jpg"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="acs"/>
+      Japan Society of Coordination Chemistry
+    </a> (***membership*** since 2022) <br>
+    
+<a
     id="cy-effective-UT-url"
     class="underline"
      target="ut.widget"
