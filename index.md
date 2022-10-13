@@ -107,13 +107,11 @@
 
 <span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span>
 
-### Publication
-see [full Publication](https://liaoym0610.github.io/publication)
+### Publication&Presentation
+see [full list](https://liaoym0610.github.io/publication)
 
 ### Awards
-1. <a href="http://www.sakutai.jp/cms/wp-content/uploads/2022/10/Student-Lecture-Awards.pdf" target="_blank">**The 72nd Conference of Japan Society of Coordination Chemistry**</a> <br>
-&ensp; **Student Lecture Award** (with Organometallic Chemistry Award)<br>
-(Title: Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes)
+see [award list](https://liaoym0610.github.io/award)
 
 ### Literature
 check out [literature](https://liaoym0610.github.io/literature)
