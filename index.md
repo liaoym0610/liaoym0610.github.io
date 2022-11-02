@@ -139,7 +139,7 @@ check out [literature](https://liaoym0610.github.io/literature)
 Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
 
 ### Languages
-🇨🇳 **Mandarin Chinese** (Native proficiency) <br>
+🇨🇳🇹🇼 **Mandarin Chinese** (Native proficiency) <br>
 🇬🇧🇺🇸 **English** (Full professional proficiency) <br>
 🇯🇵 **Japanese** (Full professional proficiency) <br>
 🇹🇼 **Taiwanese Hokkien** (Working proficiency)
