@@ -1,8 +1,15 @@
 # Literature
 #### Abstracts from literature seminars made by Yumeng
 
+**10. Migratory Insertion of CO into a Au–C Bond** <br>
+Bower J. F.; Russel C. A. *et al. J. Am. Chem. Soc.* **2022**, *144*, 19719-19725. [10.1021/jacs.2c10432](https://doi.org/10.1021/jacs.2c10432)<br>
+see **[seminar file](https://liaoym0610.github.io/literature/literature_10.pdf)**
+<div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.2c10432/asset/images/large/ja2c10432_0006.jpeg" width="350px"></div>
+
+<br>
+
 **9. A Thioether-Catalyzed Cross-Coupling Reaction of Allyl Halides and Arylboronic Acids** <br>
-Huang Y. *et al. Angew. Chem. Int. Ed.* **2022**, Accepted Articles [10.1002/anie.202211408](https://doi.org/10.1002/anie.202211408)<br>
+Huang Y. *et al. Angew. Chem. Int. Ed.* **2022**, *61*, e202211408 [10.1002/anie.202211408](https://doi.org/10.1002/anie.202211408)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_9.pdf)**
 <div align=center><img src="https://liaoym0610.github.io/literature/Screen Shot 2022-09-09 at 0.37.34.png" width="350px"></div>
 
