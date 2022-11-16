@@ -10,8 +10,7 @@ see **[seminar file](https://liaoym0610.github.io/literature/literature_10.pdf)*
 
 **10. Migratory Insertion of CO into a Au–C Bond** <br>
 Bower J. F.; Russel C. A. *et al. J. Am. Chem. Soc.* **2022**, *144*, 19719-19725.<br>
-<a class="underline" href="https://doi.org/10.1021/jacs.2c10432" target="doi.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://user-images.githubusercontent.com/5602767/65523960-4d7a8000-deed-11e9-9539-f2f073763e83.png" style="width: 1em; margin-inline-start: 0.5em" alt="doi icon"/> 10.1021/jacs.2c10432 </a> <br>
-see **[seminar file](https://liaoym0610.github.io/literature/literature_10.pdf)**
+<a class="underline" href="https://doi.org/10.1021/jacs.2c10432" target="doi.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://user-images.githubusercontent.com/5602767/65523960-4d7a8000-deed-11e9-9539-f2f073763e83.png" style="width: 1em; margin-inline-start: 0.5em" alt="doi icon"/> 10.1021/jacs.2c10432 </a>, see **[seminar file](https://liaoym0610.github.io/literature/literature_10.pdf)** <br>
 <div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.2c10432/asset/images/large/ja2c10432_0006.jpeg" width="350px"></div>
 
 <br>
