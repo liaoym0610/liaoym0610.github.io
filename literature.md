@@ -8,6 +8,13 @@ see **[seminar file](https://liaoym0610.github.io/literature/literature_10.pdf)*
 
 <br>
 
+**10. Migratory Insertion of CO into a Au–C Bond** <br>
+Bower J. F.; Russel C. A. *et al. J. Am. Chem. Soc.* **2022**, *144*, 19719-19725. <a href="https://doi.org/10.1021/jacs.2c10432" target="_blank" class="d-inline-block"><i class="ai ai-doi text-doi"></i>10.1021/jacs.2c10432</a><br>
+see **[seminar file](https://liaoym0610.github.io/literature/literature_10.pdf)**
+<div align=center><img src="https://pubs.acs.org/cms/10.1021/jacs.2c10432/asset/images/large/ja2c10432_0006.jpeg" width="350px"></div>
+
+<br>
+
 **9. A Thioether-Catalyzed Cross-Coupling Reaction of Allyl Halides and Arylboronic Acids** <br>
 Huang Y. *et al. Angew. Chem. Int. Ed.* **2022**, *61*, e202211408 [10.1002/anie.202211408](https://doi.org/10.1002/anie.202211408)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_9.pdf)**
