@@ -13,7 +13,7 @@
 <br>
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
-Takahashi K.; <u>Liao Y.</u>; Iwasawa N.\* <br>
+<u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
 **(Research Article)**, *to be submitted*
 <div align=center><img src="https://raw.githubusercontent.com/liaoym0610/liaoym0610.github.io/main/2022_borylation.png" width="350px"></div>
 
