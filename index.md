@@ -7,32 +7,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID Icon" width="30" height="30">
 </a><a href="https://scholar.google.com.tw/citations?user=KgKjnY8AAAAJ&hl=zh-TW" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Google Scholor Icon" width="30" height="30">
-</a>
-
-<a href="https://www.scopus.com/authid/detail.uri?authorId=57273056500" target="_blank">
+</a><a href="https://www.scopus.com/authid/detail.uri?authorId=57273056500" target="_blank">
   <img src="https://www.brighttalk.com/wp-content/uploads/2019/11/scopus-logo.png" alt="Scopus Icon" width="30" height="30">
-</a>
-
-<a href="https://www.researchgate.net/profile/Yumeng-Liao" target="_blank">
+</a><a href="https://www.researchgate.net/profile/Yumeng-Liao" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="Research Gate Icon" width="30" height="30">
-</a>
-
-<a href="https://www.facebook.com/yumeng.liao.31/" target="_blank">
+</a><a href="https://www.facebook.com/yumeng.liao.31/" target="_blank">
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon" width="30" height="30">
-</a>
-
-<a href="https://twitter.com/yum6ng" target="_blank">
+</a><a href="https://twitter.com/yum6ng" target="_blank">
   <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Twitter Icon" width="30" height="30">
-</a>
-
-<a href="https://www.instagram.com/_noreply/" target="_blank">
+</a><a href="https://www.instagram.com/_noreply/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="Instagram Icon" width="30" height="30">
-</a>
-
-<a href="https://www.linkedin.com/in/yumeng-liao-38b47b129/" target="_blank">
+</a><a href="https://www.linkedin.com/in/yumeng-liao-38b47b129/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png" alt="Linkedin Icon" width="30" height="30">
 </a>
-
 
 <span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span>
 
