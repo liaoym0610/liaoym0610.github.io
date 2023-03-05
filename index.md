@@ -5,9 +5,7 @@
 ### Links
 <a href="https://orcid.org/0000-0001-6221-2226" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID Icon" width="30" height="30">
-</a>
-
-<a href="https://scholar.google.com.tw/citations?user=KgKjnY8AAAAJ&hl=zh-TW" target="_blank">
+</a><a href="https://scholar.google.com.tw/citations?user=KgKjnY8AAAAJ&hl=zh-TW" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Google Scholor Icon" width="30" height="30">
 </a>
 
