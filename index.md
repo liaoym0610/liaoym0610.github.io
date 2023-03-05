@@ -3,107 +3,38 @@
 **Last updated Nov. 8th 2022** <br>
 
 ### Links
+<a href="https://orcid.org/0000-0001-6221-2226" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID Icon" width="30" height="30">
+</a>
 
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0001-6221-2226"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0001-6221-2226
-    </a>
+<a href="https://scholar.google.com.tw/citations?user=KgKjnY8AAAAJ&hl=zh-TW" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Google Scholor Icon" width="30" height="30">
+</a>
 
-<a
-    id="cy-effective-google-scholar-url"
-    class="underline"
-     href="https://scholar.google.com.tw/citations?user=KgKjnY8AAAAJ&hl=zh-TW"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="google-scholar-logo icon"/>
-      Google scholar
-    </a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57273056500" target="_blank">
+  <img src="https://www.brighttalk.com/wp-content/uploads/2019/11/scopus-logo.png" alt="Scopus Icon" width="30" height="30">
+</a>
 
-<a
-    id="cy-effective-scopus-url"
-    class="underline"
-     href="https://www.scopus.com/authid/detail.uri?authorId=57273056500"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://www.brighttalk.com/wp-content/uploads/2019/11/scopus-logo.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="scopus-logo icon"/>
-      Scopus Author ID
-    </a>
+<a href="https://www.researchgate.net/profile/Yumeng-Liao" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="Research Gate Icon" width="30" height="30">
+</a>
 
-<a
-    id="cy-effective-researchid-url"
-    class="underline"
-     href="https://www.researchgate.net/profile/Yumeng-Liao"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ResearchGate icon"/>
-      ResearchGate
-    </a>
+<a href="https://www.facebook.com/yumeng.liao.31/" target="_blank">
+  <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon" width="30" height="30">
+</a>
 
-<a
-    id="cy-effective-linkedin-url"
-    class="underline"
-     href="https://www.linkedin.com/in/yumeng-liao-38b47b129/"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="Linkedin icon"/>
-      Linkedin
-    </a>
+<a href="https://twitter.com/yum6ng" target="_blank">
+  <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Twitter Icon" width="30" height="30">
+</a>
 
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://www.facebook.com/yumeng.liao.31/"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="facebook icon"/>
-      Facebook
-    </a>
-    
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://www.instagram.com/_noreply/"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="instagram iD icon"/>
-      Instagram
-    </a>
+<a href="https://www.instagram.com/_noreply/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="Instagram Icon" width="30" height="30">
+</a>
 
+<a href="https://www.linkedin.com/in/yumeng-liao-38b47b129/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png" alt="Linkedin Icon" width="30" height="30">
+</a>
 
-<a href="https://twitter.com/yum6ng?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yum6ng</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span>
 
