@@ -1,14 +1,6 @@
 ## Homepage of Yumeng Liao
 
 **Last updated Mar. 5th 2023** <br>
-<nav>
-  <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="https://liaoym0610.github.io/publication">Publication</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-</nav>
-
 
 ### Links
 <a href="https://orcid.org/0000-0001-6221-2226" target="_blank">
