@@ -1,6 +1,11 @@
 # Literature
 #### Abstracts from literature seminars made by Yumeng
 
+**11. Isolable Ni(IV) Complexes in Organic Reactions** <br>
+Mini Review <br>
+see **[seminar file](https://liaoym0610.github.io/literature/MR_20230311.pdf)**
+<br>
+
 **10. Migratory Insertion of CO into a Au–C Bond** <br>
 Bower J. F.; Russel C. A. *et al. J. Am. Chem. Soc.* **2022**, *144*, 19719-19725. [10.1021/jacs.2c10432](https://doi.org/10.1021/jacs.2c10432)<br>
 see **[seminar file](https://liaoym0610.github.io/literature/literature_10.pdf)**
