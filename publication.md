@@ -3,12 +3,16 @@
 
 ### 2023
 **Title: to be anounced** <br>
+<u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
+**(Domestic Conference)**, the 69th Symposium on Organometallic Chemistry (Kinka Chemical Society), **2023**, September, Osaka, Japan. (poster) <br>
+
+**Title: to be anounced** <br>
 Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 **(International Conference)**, ACS Fall 2023, **2023**, August, San Francisco, CA, USA. (contributed paper) <br>
 
 **Title: to be anounced** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
-**(International Conference)**, OMCOS21, **2023**, July, Vancouver, BC, Canada. (poster), [[117]](https://omcos21.ca) <br>
+**(International Conference)**, OMCOS21, **2023**, July, Vancouver, BC, Canada. (poster) [[117]](https://omcos21.ca) <br>
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
@@ -20,7 +24,7 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Hirataka Y.; Takahashi K.; Iwasawa N.\* <br>
-**(Domestic Conference)**, JSCC 72nd Annual Meeting, **2022**, September, Fukuoka, Japan. (oral), [[2D-03]](http://www.chem.okayama-u.ac.jp/~reg/jscc72/pdf/2D-03.pdf) <br>
+**(Domestic Conference)**, JSCC 72nd Annual Meeting, **2022**, September, Fukuoka, Japan. (oral) [[2D-03]](http://www.chem.okayama-u.ac.jp/~reg/jscc72/pdf/2D-03.pdf) <br>
 🏆**Selected as <span style="color: red">Student Lecture Award</span>** (with <span style="color: brown">Organometallic Chemistry Award</span>)
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC.png" width="350px"></div> 
 
@@ -29,7 +33,7 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 
 **Development of Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand and Their Catalytic Reactivity** <br>
 <u>Liao Y.</u>; Hirataka Y.; Takahashi K.; Iwasawa N. <br>
-**(Domestic Conference)**, The CSJ 102nd Annual Meeting, **2022**, March, ONLINE. (oral), [[D202-4am-11]](https://confit.atlas.jp/guide/event/csj102nd/subject/D202-4am-11/tables?cryptoId=)
+**(Domestic Conference)**, The CSJ 102nd Annual Meeting, **2022**, March, ONLINE. (oral) [[D202-4am-11]](https://confit.atlas.jp/guide/event/csj102nd/subject/D202-4am-11/tables?cryptoId=)
 <div align=center><img src="https://liaoym0610.github.io/714B79B4-CA47-4A91-B24D-0B18D719DF67.png" width="350px"></div>
 
 ### 2021
@@ -42,7 +46,7 @@ Suzuki H.; <u>Liao Y.</u>; Kawai Y.; Matsuda T.<br>
 ### 2020
 **Rhodium-Catalyzed C(sp<sup>2</sup>)–H Alkoxycarbonylation of Indoles without External Additives** <br>
 <u>Liao Y.</u>; Suzuki H.; Matsuda T. <br>
-**(Domestic Conference)**, The CSJ 100th Annual Meeting, **2020**, Chiba, Japan. (oral), [[2H1-01]](https://confit.atlas.jp/guide/event/csj100th/subject/2H1-01/class?cryptoId=)
+**(Domestic Conference)**, The CSJ 100th Annual Meeting, **2020**, Chiba, Japan. (oral) [[2H1-01]](https://confit.atlas.jp/guide/event/csj100th/subject/2H1-01/class?cryptoId=)
 <div align=center><img src="https://liaoym0610.github.io/9D16328D-CFE8-49EF-9F69-71E2FF17A544.png" width="350px"></div>
 
 ##### [back to homepage](https://liaoym0610.github.io)
