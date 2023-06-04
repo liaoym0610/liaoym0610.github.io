@@ -15,7 +15,7 @@
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon" width="40" height="40">
 </a><a href="https://twitter.com/yum6ng" target="_blank">
   <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Twitter Icon" width="40" height="40">
-</a><a href="https://www.instagram.com/_noreply/" target="_blank">
+</a><a href="https://www.instagram.com/_yum6ng/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="Instagram Icon" width="40" height="40">
 </a><a href="https://www.linkedin.com/in/yumeng-liao-38b47b129/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png" alt="Linkedin Icon" width="40" height="40">
