@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .container-lg {
+        max-width: 1200px !important;
+      }
+    </style>
+  </head>
+  <body>
 ## Homepage of Yumeng Liao
 
 **Last updated May. 19th 2023** <br>
@@ -112,3 +122,5 @@ Organometallic Chemistry, Organic Synthesis, Homogeneous Catalysis
         alt="ut"/>
       SPRING GX Project, UTokyo
     </a> (***fellowship*** since 2022)
+  </body>
+</html>
