@@ -26,7 +26,7 @@
 <h3 id="literature">Literature</h3>
 <p>check out <a href="https://liaoym0610.github.io/literature">literature</a></p>
 <h3 id="about">About</h3>
-<div align=center><img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/358673559_2011617705839779_8842909818625482918_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Jsp0GoW-PXQAX9i7FeM&_nc_ht=scontent-nrt1-1.xx&oh=00_AfAOVO1M6c77qUeBpFJrFl582SvsyZZDvI1QLsAfj358eA&oe=64B44126" width="300" height="300"><p style="text-align: center"><b>Yumeng Liao (廖 宇萌)</b></p></div>
+<div align=center><img src="liaoym0610.github.io/blob/main/profile_pic.jpg" width="300" height="300"><p style="text-align: center"><b>Yumeng Liao (廖 宇萌)</b></p></div>
 
 <p><strong>Birth</strong>: June 10th, 1997 <br>
 <strong>Born</strong>: Leshan, Sichuan, P.R.China <br>
