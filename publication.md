@@ -2,6 +2,10 @@
 # PUBLICATION & PRESENTATION
 
 ### 2023
+**Title to be anounced** <br>
+<u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
+**(International Conference)**, ICOS-23, **2023**, October, Shanghai, China. (oral) [website](https://23icos-sioc.casconf.cn/) <br>
+
 **Nickel-Catalyzed Hydrogenolysis of 1-Aryloxy-3-Amino-2-Propanols for C(sp<sup>3</sup>)–O Bond Cleavage: A Study Towards Degradation of Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
 **(Domestic Conference)**, the 69th Symposium on Organometallic Chemistry (Kinka Chemical Society), **2023**, September, Osaka, Japan. (poster) <br>
@@ -12,7 +16,7 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 
 **Nickel-Catalyzed Selective Cleavage of C(sp3)–O Bond of 1-Aryloxy-3-Amino-2-Propanols: A Study Towards Epoxy Resin Degradation** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
-**(International Conference)**, OMCOS21, **2023**, July, Vancouver, BC, Canada. (poster) [[31]](https://omcos21.ca/program/) <br>
+**(International Conference)**, OMCOS-21, **2023**, July, Vancouver, BC, Canada. (poster) [[31]](https://omcos21.ca/program/) <br>
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
