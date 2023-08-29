@@ -2,7 +2,12 @@
 # PUBLICATION & PRESENTATION
 
 ### 2023
-**Title to be anounced** <br>
+**Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
+<u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
+**(Preprint)**, *ChemRxiv*, **2023**. [10.26434/chemrxiv-2023-dz9v9](https://doi.org/10.26434/chemrxiv-2023-dz9v9)
+<div align=center><img src="https://liaoym0610.github.io/publication/Ni_paper_TOC.png" width="350px"></div><br>
+
+**Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
 **(International Conference)**, ICOS-23, **2023**, October, Shanghai, China. (oral) [website](https://23icos-sioc.casconf.cn/) <br>
 
