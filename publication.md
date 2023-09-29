@@ -4,7 +4,7 @@
 ### 2023
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
-**(Preprint)**, *ChemRxiv*, **2023**. [10.26434/chemrxiv-2023-dz9v9](https://doi.org/10.26434/chemrxiv-2023-dz9v9)
+**(Preprint)**, *ChemRxiv*, **2023**. [10.26434/chemrxiv-2023-dz9v9](https://doi.org/10.26434/chemrxiv-2023-dz9v9-v2)
 <div align=center><img src="https://liaoym0610.github.io/publication/Ni_paper_TOC.png" width="350px"></div><br>
 
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
@@ -22,6 +22,7 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 **Nickel-Catalyzed Selective Cleavage of C(sp3)–O Bond of 1-Aryloxy-3-Amino-2-Propanols: A Study Towards Epoxy Resin Degradation** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
 **(International Conference)**, OMCOS-21, **2023**, July, Vancouver, BC, Canada. (poster) [[31]](https://omcos21.ca/program/) <br>
+🏆**<span style="color: red">Gold Poster Award</span>** (<span style="color: brown">3 selected from 167 posters</span>)
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
@@ -34,7 +35,7 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Hirataka Y.; Takahashi K.; Iwasawa N.\* <br>
 **(Domestic Conference)**, JSCC 72nd Annual Meeting, **2022**, September, Fukuoka, Japan. (oral) [[2D-03]](http://www.chem.okayama-u.ac.jp/~reg/jscc72/pdf/2D-03.pdf) <br>
-🏆**Selected as <span style="color: red">Student Lecture Award</span>** (with <span style="color: brown">Organometallic Chemistry Award</span>)
+🏆**<span style="color: red">Student Lecture Award</span>** (selected as <span style="color: brown">Organometallic Chemistry Award</span>)
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC.png" width="350px"></div> 
 
 
