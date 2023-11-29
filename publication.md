@@ -11,7 +11,8 @@
 
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
-**(Article)** *J. Am. Chem. Soc.* **2023**, accepted <br>
+**(Article)** *J. Am. Chem. Soc.* **2023**, in press.  [10.1021/jacs.3c09061](https://doi.org/10.1021/jacs.3c09061) <br>
+<a href="https://doi.org/10.1021/jacs.3c09061" target="_blank" class="d-inline-block"><i class="ai ai-doi text-doi"></i>10.1021/jacs.3c09061</a>
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC_JACS.png" width="350px"></div>
 
 **(Preprint)** *ChemRxiv*, **2023**. [10.26434/chemrxiv-2023-dz9v9-v2](https://doi.org/10.26434/chemrxiv-2023-dz9v9-v2)
