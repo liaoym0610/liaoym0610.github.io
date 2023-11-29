@@ -11,11 +11,30 @@
 
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
-**(Article)** *J. Am. Chem. Soc.* **2023**, in press.  [10.1021/jacs.3c09061](https://doi.org/10.1021/jacs.3c09061) <br>
+**(Article)** *J. Am. Chem. Soc.* **2023**, in press.  <a
+     class="underline"
+     href="https://doi.org/10.1021/jacs.3c09061"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://static-00.iconduck.com/assets.00/doi-icon-2048x2048-tozwf629.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="doi icon"/>
+      10.1021/jacs.3c09061
+ </a> <br>
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC_JACS.png" width="350px"></div>
 
-**(Preprint)** *ChemRxiv*, **2023**. [10.26434/chemrxiv-2023-dz9v9-v2](https://doi.org/10.26434/chemrxiv-2023-dz9v9-v2)
-<br>
+**(Preprint)** *ChemRxiv*, **2023**. <a
+     class="underline"
+     href="https://doi.org/10.26434/chemrxiv-2023-dz9v9-v2"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://static-00.iconduck.com/assets.00/doi-icon-2048x2048-tozwf629.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="doi icon"/>
+      10.26434/chemrxiv-2023-dz9v9-v2
+ </a><br>
 
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
@@ -59,7 +78,17 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 ### 2021
 **Rhodium-Catalyzed Additive-Free C–H Ethoxycarbonylation of (Hetero)Arenes with Diethyl Dicarbonate as a CO Surrogate** <br>
 Suzuki H.; <u>Liao Y.</u>; Kawai Y.; Matsuda T.\* <br>
-**(Communication)** *Eur. J. Org. Chem*, **2021**, 4938–4942. [10.1002/ejoc.202100956](https://doi.org/10.1002/ejoc.202100956)
+**(Communication)** *Eur. J. Org. Chem*, **2021**, 4938–4942. <a
+     class="underline"
+     href="https://doi.org/10.1002/ejoc.202100956"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://static-00.iconduck.com/assets.00/doi-icon-2048x2048-tozwf629.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="doi icon"/>
+      10.1002/ejoc.202100956
+ </a> <br>
 <div align=center><img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/15adfe87-228b-4fc1-8b23-e47ae8fdc4a6/ejoc202100956-toc-0001-m.jpg" width="350px"></div><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-popover="right" data-badge-type="1" data-doi="10.1002/ejoc.202100956" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
