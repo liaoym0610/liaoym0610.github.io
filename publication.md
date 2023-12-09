@@ -23,6 +23,8 @@
       10.1021/jacs.3c09061
  </a> <br>
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC_JACS.png" width="350px"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/jacs.3c09061" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **(Preprint)** *ChemRxiv*, **2023**. <a
      class="underline"
