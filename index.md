@@ -30,7 +30,7 @@
 
 <p><strong>Birth</strong>: June 10th, 1997 <br>
 <strong>Born</strong>: Leshan, Sichuan, P.R.China <br>
-<strong>Email</strong>: yliao@g.ecc.u-tokyo.ac.jp <br></p>
+<strong>Email</strong>: yliao<strong>[</strong>@<strong>]</strong>g.ecc.u-tokyo.ac.jp (please remove "<strong>[</strong> <strong>]</strong>") <br></p>
 <h3 id="education">Education</h3>
 <p><strong>2016-2020</strong>: Tokyo University of Science <br>
 &ensp; B.Sc. (Chemistry) with Prof. Takanori Matsuda and Dr. Hirotsugu Suzuki <br>
