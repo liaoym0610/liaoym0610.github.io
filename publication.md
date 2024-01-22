@@ -26,6 +26,8 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/jacs.3c09061" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
+**<span style="color: red">featured as supplementary cover</span>** 
+
 **(Preprint)** *ChemRxiv*, **2023**. <a
      class="underline"
      href="https://doi.org/10.26434/chemrxiv-2023-dz9v9-v2"
