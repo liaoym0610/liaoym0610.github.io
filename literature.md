@@ -1,6 +1,16 @@
 # Literature
 #### Abstracts from literature seminars made by Yumeng
 
+**13. Well-identified Cu(III) Species in Bond Formations** <br>
+Mini Review <br>
+see **[seminar file](https://liaoym0610.github.io/literature/MR_20240122.pdf)**
+<br><br>
+
+**12. Bidentate Boryl Ligand-Supported Complexes and Their Catalytic Applications** <br>
+Mini Review <br>
+see **[seminar file](https://liaoym0610.github.io/literature/MR_20230715.pdf)**
+<br><br>
+
 **11. Isolable Ni(IV) Complexes in Organic Reactions** <br>
 Mini Review <br>
 see **[seminar file](https://liaoym0610.github.io/literature/MR_20230311.pdf)**
