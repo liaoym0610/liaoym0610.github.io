@@ -7,11 +7,9 @@
 <u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
 **(Domestic Conference)** The CSJ 104nd Annual Meeting, **2024**, March, Chiba. (oral) <br>
 
-### 2023
-
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
-**(Article)** *J. Am. Chem. Soc.* **2023**, in press.  <a
+**(Article)** *J. Am. Chem. Soc.* **2024**, *146*, 2419–2425.  <a
      class="underline"
      href="https://doi.org/10.1021/jacs.3c09061"
      rel="me noopener noreferrer"
@@ -27,6 +25,7 @@
 <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/jacs.3c09061" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **<span style="color: red">featured as supplementary cover</span>** 
+<div align=center><img src="http://liaoym0610.github.io/publication/jacsat.2024.146.issue-4.xlargecover-2.jpg" width="350px"></div>
 
 **(Preprint)** *ChemRxiv*, **2023**. <a
      class="underline"
@@ -39,6 +38,8 @@
         alt="doi icon"/>
       10.26434/chemrxiv-2023-dz9v9-v2
  </a><br>
+ 
+### 2023
 
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
