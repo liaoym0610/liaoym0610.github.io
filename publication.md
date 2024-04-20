@@ -3,6 +3,11 @@
 
 ### 2024
 
+**Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
+<u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
+**(Communication)** *to be submitted*
+<div align=center><img src="https://liaoym0610.github.io/publication/Ru_Boryl.png" width="350px"></div>
+
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
 **(Domestic Conference)** The CSJ 104nd Annual Meeting, **2024**, March, Chiba. (oral) <br>
@@ -57,12 +62,6 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
 **(International Conference)** 21st International Symposium on Organometallic Chemistry Directed Toward Organic Synthesis (OMCOS XXI), **2023**, July, Vancouver, BC, Canada. (poster) [[31]](https://omcos21.ca/program/) <br>
 🏆**<span style="color: red">Gold Poster Award</span>** (<span style="color: brown">3 selected from 167 posters</span>)
-
-**Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
-<u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
-**(Research Article)** *to be submitted*
-<div align=center><img src="https://liaoym0610.github.io/publication/TOC1.jpg" width="350px"></div>
-
 
 ### 2022
 
