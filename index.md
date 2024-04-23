@@ -19,6 +19,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png" alt="Linkedin Icon" width="40" height="40">
 </a></p>
 <p><span id="badgeCont421"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont421&rid=ABB-1572-2021"></script></span></p>
+</a><a href="https://researchmap.jp/yumengliao?lang=en" target="_blank">
+  <img src="https://researchmap.jp/img/logo_small.gif?1527659399" alt="Researchmap Icon" >
 <h3 id="publication-presentation">Publication&amp;Presentation</h3>
 <p>see <a href="https://liaoym0610.github.io/publication">full list</a></p>
 <h3 id="awards">Awards</h3>
