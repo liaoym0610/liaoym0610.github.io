@@ -4,7 +4,7 @@
 ### 2024
 🏆**Student Presentation Award** <br>
 [The CSJ 104th Annual Meeting](https://www.chemistry.or.jp/event/77-06.pdf)
-
+<div align=center><img src="https://liaoym0610.github.io/publication/CSJ award.jpg" width="350px"></div>
 <br>
 
 ### 2023
