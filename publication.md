@@ -25,7 +25,7 @@
         style="width: 1em; margin-inline-start: 0.5em"
         alt="doi icon"/>
       10.1021/jacs.3c09061
- </a>, highlighted by [OPR&D](https://doi.org/10.1021/acs.oprd.4c00036), [Chem-Station Chinese version](https://cn.chem-station.com/化学杂记/recentpaper/热点研究/2023/12/「spotlight-research」镍催化远程协同氧化加成实现了csp3%E2%88%92.html) <span class="__dimensions_badge_embed__" data-doi="10.1021/jacs.3c09061" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <br>
+ </a>, highlighted by [OPR&D](https://doi.org/10.1021/acs.oprd.4c00036), [Chem-Station Chinese version](https://cn.chem-station.com/化学杂记/recentpaper/热点研究/2023/12/「spotlight-research」镍催化远程协同氧化加成实现了csp3%E2%88%92.html) <span class="__dimensions_badge_embed__" data-doi="10.1021/jacs.3c09061" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <br>
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC_JACS.png" width="350px"></div>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
@@ -82,7 +82,7 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 ### 2021
 **Rhodium-Catalyzed Additive-Free C–H Ethoxycarbonylation of (Hetero)Arenes with Diethyl Dicarbonate as a CO Surrogate** <br>
 Suzuki H.; <u>Liao Y.</u>; Kawai Y.; Matsuda T.\* <br>
-**(Communication)** *Eur. J. Org. Chem*, **2021**, 4938–4942. <a
+**(Communication)** *Eur. J. Org. Chem*, **2021**, 4938–4942.<span class="__dimensions_badge_embed__" data-doi="10.1002/ejoc.202100956" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <a
      class="underline"
      href="https://doi.org/10.1002/ejoc.202100956"
      rel="me noopener noreferrer"
