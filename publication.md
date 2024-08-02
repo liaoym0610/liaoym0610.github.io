@@ -82,7 +82,7 @@ Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
 ### 2021
 **Rhodium-Catalyzed Additive-Free C–H Ethoxycarbonylation of (Hetero)Arenes with Diethyl Dicarbonate as a CO Surrogate** <br>
 Suzuki H.; <u>Liao Y.</u>; Kawai Y.; Matsuda T.\* <br>
-**(Communication)** *Eur. J. Org. Chem*, **2021**, 4938–4942.<span class="__dimensions_badge_embed__" data-doi="10.1002/ejoc.202100956" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <a
+**(Communication)** *Eur. J. Org. Chem*, **2021**, 4938–4942. <a
      class="underline"
      href="https://doi.org/10.1002/ejoc.202100956"
      rel="me noopener noreferrer"
@@ -92,9 +92,8 @@ Suzuki H.; <u>Liao Y.</u>; Kawai Y.; Matsuda T.\* <br>
         style="width: 1em; margin-inline-start: 0.5em"
         alt="doi icon"/>
       10.1002/ejoc.202100956
- </a> <br>
+ </a> <br> <span class="__dimensions_badge_embed__" data-doi="10.1002/ejoc.202100956" data-style="large_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <div align=center><img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/15adfe87-228b-4fc1-8b23-e47ae8fdc4a6/ejoc202100956-toc-0001-m.jpg" width="350px"></div><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-popover="right" data-badge-type="1" data-doi="10.1002/ejoc.202100956" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ### 2020
 **Rhodium-Catalyzed C(sp<sup>2</sup>)–H Alkoxycarbonylation of Indoles without External Additives** <br>
