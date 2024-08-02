@@ -25,10 +25,9 @@
         style="width: 1em; margin-inline-start: 0.5em"
         alt="doi icon"/>
       10.1021/jacs.3c09061
- </a>, highlighted by [OPR&D](https://doi.org/10.1021/acs.oprd.4c00036), [Chem-Station Chinese version](https://cn.chem-station.com/化学杂记/recentpaper/热点研究/2023/12/「spotlight-research」镍催化远程协同氧化加成实现了csp3%E2%88%92.html) <br>
+ </a>, highlighted by [OPR&D](https://doi.org/10.1021/acs.oprd.4c00036), [Chem-Station Chinese version](https://cn.chem-station.com/化学杂记/recentpaper/热点研究/2023/12/「spotlight-research」镍催化远程协同氧化加成实现了csp3%E2%88%92.html) <span class="__dimensions_badge_embed__" data-doi="10.1021/jacs.3c09061" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <br>
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC_JACS.png" width="350px"></div>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<span class="__dimensions_badge_embed__" data-doi="10.1021/jacs.3c09061"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **<span style="color: red">featured as supplementary cover</span>** 
 <div align=center><img src="http://liaoym0610.github.io/publication/jacsat.2024.146.issue-4.xlargecover-2.jpg" width="350px"></div>
