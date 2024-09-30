@@ -1,6 +1,14 @@
 
 # PUBLICATION & PRESENTATION
 
+### 2025
+**Catalytic Degradation of Epoxy Resin via C–O & C–N Bond Hydrogenolysis Enabled by Ni Catalysis** <br>
+<u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
+**(International Conference)** Organometallic Chemistry: Earth-Abundant Metal Catalysis, Division of Inorganic Chemistry, ACS SPRING 2025, **2025**, March, San Diego CA, United States. (oral)
+<div align=center><img src="https://liaoym0610.github.io/publication/TOC_ACS_YumengLiao.png" width="350px"></div>
+<br>
+
+
 ### 2024
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
@@ -56,7 +64,7 @@
 
 **Catalytic Cleavage of C(sp<sup>3</sup>)–O Bonds Toward Deconstruction of Thermosetting Resins** <br>
 Liao Y.; Huang Y.; Takahashi K.; Jin X.; <u>Nozaki K.</u>\* <br>
-**(International Conference)** ACS Fall 2023, **2023**, August, San Francisco, CA, USA. (contributed talk) [[3920784]](https://acs.digitellinc.com/live/30/page/975/1?eventSearchInput=yumeng+liao&eventSearchDateTimeStart=&eventSearchDateTimeEnd=7) <br>
+**(International Conference)** ACS FALL 2023, **2023**, August, San Francisco CA, USA. (contributed talk) [[3920784]](https://acs.digitellinc.com/live/30/page/975/1?eventSearchInput=yumeng+liao&eventSearchDateTimeStart=&eventSearchDateTimeEnd=7) <br>
 
 **Nickel-Catalyzed Selective Cleavage of C(sp3)–O Bond of 1-Aryloxy-3-Amino-2-Propanols: A Study Towards Epoxy Resin Degradation** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
