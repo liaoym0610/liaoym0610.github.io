@@ -14,12 +14,12 @@
         style="width: 1em; margin-inline-start: 0.5em"
         alt="doi icon"/>
       10.21203/rs.3.rs-5298299/v1
- </a><br>
+ </a><br><br>
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
 **(Communication)** *under revision*
-<div align=center><img src="https://liaoym0610.github.io/publication/Ru_borylation.png" width="350px"></div> <br>
+<div align=center><img src="https://liaoym0610.github.io/publication/Ru_borylation.png" width="350px"></div> <br><br>
 
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
 <u>Liao Y.</u>; Takahashi K.\*; Nozaki K.\* <br>
@@ -50,7 +50,7 @@
         style="width: 1em; margin-inline-start: 0.5em"
         alt="doi icon"/>
       10.26434/chemrxiv-2023-dz9v9-v2
- </a><br>
+ </a><br><br>
 
 ### 2021
 **Rhodium-Catalyzed Additive-Free C–H Ethoxycarbonylation of (Hetero)Arenes with Diethyl Dicarbonate as a CO Surrogate** <br>
