@@ -18,7 +18,7 @@
 
 **Ruthenium Complexes Bearing a Tetradentate Hemilabile Ligand: Synthesis, Structure, Hemilabile Feature and Catalytic Application to C−H Borylation of Unactivated Arenes** <br>
 <u>Liao Y.</u>; Takahashi K.; Iwasawa N.\* <br>
-**(Communication)** *under revision*
+**(Communication)** *Organometallics* **2024**, Accepted. <br>
 <div align=center><img src="https://liaoym0610.github.io/publication/Ru_borylation.png" width="350px"></div> <br><br>
 
 **Nickel-Catalyzed C(sp<sup>3</sup>)−O Hydrogenolysis via a Remote Concerted Oxidative Addition and its Application to Degradation of a Bisphenol A-Based Epoxy Resin** <br>
