@@ -4,7 +4,7 @@
 ### 2025
 **Catalytic Degradation of Epoxy Resin via C–O & C–N Bond Hydrogenolysis Enabled by Ni Catalysis** <br>
 <u>Liao Y.</u>; Takahashi K.; Nozaki K.\* <br>
-**(International Conference)** Organometallic Chemistry: Earth-Abundant Metal Catalysis, Division of Inorganic Chemistry, ACS SPRING 2025, **2025**, March, *San Diego CA, United States*. (oral)
+**(International Conference)** Organometallic Chemistry: Earth-Abundant Metal Catalysis, Division of Inorganic Chemistry, ACS SPRING 2025, **2025**, March, *San Diego CA, United States*. (oral)[[4175902]](https://acs.digitellinc.com/p/s/catalytic-degradation-of-epoxy-resin-via-c-o-and-c-n-bond-hydrogenolysis-enabled-by-ni-catalysis-619827)
 <div align=center><img src="https://liaoym0610.github.io/publication/TOC_ACS_YumengLiao.png" width="350px"></div>
 <br><br>
 
